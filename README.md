@@ -32,6 +32,6 @@ Output:
 1
 0
 
-
-
+                
+nikkaramesinis	exec time	0.19	mem 240.9M	language C++14
 https://www.codechef.com/problems/TF01
